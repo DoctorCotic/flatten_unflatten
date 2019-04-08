@@ -2,9 +2,8 @@ package main
 
 import (
 	"encoding/json"
-	"flatten_unflatten_test/flatten_unflatten/converting"
 	"fmt"
-
+	"github.com/flatten_unflatten/converting"
 )
 
 func main() {

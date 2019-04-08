@@ -2,7 +2,7 @@ package tests
 
 import (
 	"encoding/json"
-	"flatten_unflatten_test/flatten_unflatten/converting"
+	"github.com/flatten_unflatten/converting"
 	"reflect"
 	"testing"
 )
